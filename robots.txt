@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap declaration
-Sitemap: https://jamesngariu.com/sitemap.xml 
+Sitemap: https://github.com/jmooreCodes/jamesngariu_website/sitemap.xml 
