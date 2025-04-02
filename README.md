@@ -69,7 +69,7 @@ clean-portfolio/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/jamesngariu/clean-portfolio.git
+   git clone https://github.com/jmooreCodes/jamesngariu_website.git
    ```
    
 2. Navigate to the project directory:
