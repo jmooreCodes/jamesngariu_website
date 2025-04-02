@@ -6,7 +6,7 @@ A professionally designed, responsive portfolio website built with modern web st
 
 ## Live Demo
 
-[View Live Demo](https://jamesngariu.com)
+[View Live Demo](#)
 
 ## Features
 
