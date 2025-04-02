@@ -178,9 +178,9 @@ This project is available under the MIT License. See the [LICENSE](LICENSE) file
 ## Author
 
 **James Ngariu**
-- Website: [jamesngariu.com](https://jamesngariu.com)
-- GitHub: [@jamesngariu](https://github.com/jamesngariu)
-- LinkedIn: [James Ngariu](https://linkedin.com/in/jamesngariu)
+- Website: [jamesngariu.com]([https://github.com/jmooreCodes/jamesngariu_website/)
+- GitHub: [@jmooreCodes](https://github.com/jmooreCodes)
+- LinkedIn: [James Ngariu](https://linkedin.com/in/james-ngariu)
 
 ---
 
